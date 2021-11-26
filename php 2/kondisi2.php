@@ -1,8 +1,8 @@
 <?php
-$x = "10";
+$x = "30";
 if ($x < 20){
     echo "benar";
-}elseif ($x ==10){
+}elseif ($x ==30){
     echo "binggo";
 }else {
     echo "salah";
