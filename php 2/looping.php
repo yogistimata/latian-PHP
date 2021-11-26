@@ -18,7 +18,7 @@
                 echo "<td> $b,$k </td>";
             }
             echo "</tr>";
-        }
+        };
         ?>
 
     </table>
